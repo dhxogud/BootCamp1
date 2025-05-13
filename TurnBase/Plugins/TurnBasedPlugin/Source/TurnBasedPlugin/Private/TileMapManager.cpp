@@ -206,6 +206,11 @@ TArray<ATileBase*> ATileMapManager::FindPath(FVector StartLocation, FVector EndL
                 }
             }
         }
+
+        if (Neighbors.Num() == 0)
+        {
+            return TArray<ATileBase*>();
+        }
     }
 
     return TArray<ATileBase*>(); // 경로를 찾을 수 없으면 빈 배열 반환
@@ -226,10 +231,10 @@ TArray<ATileBase*> ATileMapManager::GetNeighbors(ATileBase* Tile)
         FVector(-1, 0, 0),  // 왼쪽
         FVector(0, 1, 0),   // 위
         FVector(0, -1, 0),  // 아래
-        FVector(1, 1, 0),   // 우상
-        FVector(-1, -1, 0), // 좌하
-        FVector(1, -1, 0),  // 우하
-        FVector(-1, 1, 0)   // 좌상
+        //FVector(1, 1, 0),   // 우상
+        //FVector(-1, -1, 0), // 좌하
+        //FVector(1, -1, 0),  // 우하
+        //FVector(-1, 1, 0)   // 좌상
     };
 
     for (const FVector& Direction : Directions)
@@ -245,6 +250,7 @@ TArray<ATileBase*> ATileMapManager::GetNeighbors(ATileBase* Tile)
             ATileBase* Neighbor = TileMap[NewIndex];
             if (Neighbor && Neighbor->bIsWalkable) // 이동 가능한 타일만 추가
             {
+                UE_LOG(LogTemp, Log, TEXT("Neighbor=%d"), NewIndex);
                 Neighbors.Add(Neighbor);
             }
         }

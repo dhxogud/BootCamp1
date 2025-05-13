@@ -3,12 +3,12 @@
 	{
 		"Module.TurnBasedPlugin.cpp.obj": [
 			"TileBase.cpp.obj",
-			"TileMapManager.cpp.obj",
 			"TurnBasedPlugin.cpp.obj",
 			"TileBase.gen.cpp.obj",
 			"TileMapManager.gen.cpp.obj",
 			"TurnBasedPlugin.init.gen.cpp.obj",
-			"PerModuleInline.gen.cpp.obj"
+			"PerModuleInline.gen.cpp.obj",
+			"TileMapManager.cpp.obj"
 		]
 	}
 }

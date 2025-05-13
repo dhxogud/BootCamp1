@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\turnbasedtemplate\\plugins\\turnbasedplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\turnbasedplugin\\permoduleinline.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\turnbasedtemplate\\intermediate\\build\\win64\\x64\\turnbasedtemplateeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\turnbasedtemplate\\plugins\\turnbasedplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\turnbasedplugin\\definitions.turnbasedplugin.h",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

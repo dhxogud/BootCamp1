@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-TurnBasedPlugin.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\TurnBasedTemplate\Intermediate\Build\Win64\x64\TurnBasedTemplateEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h.obj"
+"C:\TurnBasedTemplate\Plugins\TurnBasedPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\TurnBasedPlugin\Module.TurnBasedPlugin.cpp.obj"
+"C:\TurnBasedTemplate\Plugins\TurnBasedPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\TurnBasedPlugin\PerModuleInline.gen.cpp.obj"
+"C:\TurnBasedTemplate\Plugins\TurnBasedPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\TurnBasedPlugin\TileBase.gen.cpp.obj"
+"C:\TurnBasedTemplate\Plugins\TurnBasedPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\TurnBasedPlugin\TileMapManager.gen.cpp.obj"
+"C:\TurnBasedTemplate\Plugins\TurnBasedPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\TurnBasedPlugin\TurnBasedPlugin.init.gen.cpp.obj"
+"C:\TurnBasedTemplate\Plugins\TurnBasedPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\TurnBasedPlugin\Default.rc2.res"
+/OUT:"C:\TurnBasedTemplate\Plugins\TurnBasedPlugin\Intermediate\Build\Win64\x64\UnrealEditor\Development\TurnBasedPlugin\UnrealEditor-TurnBasedPlugin.lib"

@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\turnbasedtemplate\\plugins\\turnbasedplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\turnbasedplugin\\uht\\tilebase.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\turnbasedtemplate\\intermediate\\build\\win64\\x64\\turnbasedtemplateeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\turnbasedtemplate\\plugins\\turnbasedplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\turnbasedplugin\\definitions.turnbasedplugin.h",
+            "c:\\turnbasedtemplate\\plugins\\turnbasedplugin\\source\\turnbasedplugin\\public\\tilebase.h",
+            "c:\\turnbasedtemplate\\plugins\\turnbasedplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\turnbasedplugin\\uht\\tilebase.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

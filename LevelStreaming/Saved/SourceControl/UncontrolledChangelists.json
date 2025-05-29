@@ -1,0 +1,40 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/BootCamp1/LevelStreaming/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/BootCamp1/LevelStreaming/Content/CoinGame/StaticMeshes/SM_Coin.uasset",
+				"C:/BootCamp1/LevelStreaming/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/BootCamp1/LevelStreaming/Content/CoinGame/BP_Coin.uasset",
+				"C:/BootCamp1/LevelStreaming/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/CU/DJH0A37TVK39LQ8TCOGBNA.uasset",
+				"C:/BootCamp1/LevelStreaming/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/9I/WW0ARVOJTXDK1MXM3JYND5.uasset",
+				"C:/BootCamp1/LevelStreaming/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/ZP/6T55JCE2FL795NMVEJ4ZX3.uasset",
+				"C:/BootCamp1/LevelStreaming/Content/CoinGame/BP_GameMode.uasset",
+				"C:/BootCamp1/LevelStreaming/Content/CoinGame/BP_Hud.uasset",
+				"C:/BootCamp1/LevelStreaming/Content/CoinGame/BP_PlayerState.uasset",
+				"C:/BootCamp1/LevelStreaming/Content/CoinGame/HudWidget.uasset",
+				"C:/BootCamp1/LevelStreaming/Content/ThirdPerson/Maps/Entry.umap",
+				"C:/BootCamp1/LevelStreaming/Content/CoinGame/Entry/BP_EntryGameMode.uasset",
+				"C:/BootCamp1/LevelStreaming/Content/CoinGame/Entry/BP_EntryHud.uasset",
+				"C:/BootCamp1/LevelStreaming/Content/CoinGame/Entry/BP_EntryPawn.uasset",
+				"C:/BootCamp1/LevelStreaming/Content/CoinGame/Entry/EntryHudWidget.uasset",
+				"C:/BootCamp1/LevelStreaming/Content/ThirdPerson/Maps/P_Level.umap",
+				"C:/BootCamp1/LevelStreaming/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/FR/LBG6LPN5JCL3FMVSI2CK6R.uasset",
+				"C:/BootCamp1/LevelStreaming/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/43/HYQWORMY4JDQ5X3OKZXFLC.uasset",
+				"C:/BootCamp1/LevelStreaming/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/S1/DXUWD12MD3HRWVVXX076BY.uasset",
+				"C:/BootCamp1/LevelStreaming/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/J7/N10XDC9G27EMLS5AGZ6AVV.uasset",
+				"C:/BootCamp1/LevelStreaming/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/R1/TS5OQ5CRUWFZYL1ZQ7I416.uasset",
+				"C:/BootCamp1/LevelStreaming/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PN/2QISIGK5DJNQ05US8O8FXW.uasset",
+				"C:/BootCamp1/LevelStreaming/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/LN/30UBDLYFFA5ZR7U4W4L4GG.uasset",
+				"C:/BootCamp1/LevelStreaming/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/EY/87SHEJN5UBEAN2K5OV1G6R.uasset",
+				"C:/BootCamp1/LevelStreaming/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/AZ/A7GPT109Y6ZTTJD4A7TXER.uasset",
+				"C:/BootCamp1/LevelStreaming/Content/CoinGame/Entry/BP_PGameMode.uasset",
+				"C:/BootCamp1/LevelStreaming/Content/CoinGame/Entry/BP_PHud.uasset",
+				"C:/BootCamp1/LevelStreaming/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset"
+			]
+		}
+	]
+}

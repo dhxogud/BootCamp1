@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-TurnBasedPlugin-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\BootCamp1\TurnBase\Intermediate\Build\Win64\x64\TurnBasedTemplateEditor\DebugGame\UnrealEd\SharedPCH.UnrealEd.Project.NonOptimized.ValApi.Cpp20.InclOrderUnreal5_3.h.obj"
+"C:\BootCamp1\TurnBase\Plugins\TurnBasedPlugin\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\TurnBasedPlugin\Module.TurnBasedPlugin.cpp.obj"
+"C:\BootCamp1\TurnBase\Plugins\TurnBasedPlugin\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\TurnBasedPlugin\PerModuleInline.gen.cpp.obj"
+"C:\BootCamp1\TurnBase\Plugins\TurnBasedPlugin\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\TurnBasedPlugin\TileBase.gen.cpp.obj"
+"C:\BootCamp1\TurnBase\Plugins\TurnBasedPlugin\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\TurnBasedPlugin\TileMapManager.gen.cpp.obj"
+"C:\BootCamp1\TurnBase\Plugins\TurnBasedPlugin\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\TurnBasedPlugin\TurnBasedPlugin.init.gen.cpp.obj"
+"C:\BootCamp1\TurnBase\Plugins\TurnBasedPlugin\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\TurnBasedPlugin\Default.rc2.res"
+/OUT:"C:\BootCamp1\TurnBase\Plugins\TurnBasedPlugin\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\TurnBasedPlugin\UnrealEditor-TurnBasedPlugin-Win64-DebugGame.lib"

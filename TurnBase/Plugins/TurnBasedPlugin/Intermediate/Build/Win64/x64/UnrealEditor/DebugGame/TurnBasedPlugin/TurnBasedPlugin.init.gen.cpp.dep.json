@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\bootcamp1\\turnbase\\plugins\\turnbasedplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\turnbasedplugin\\uht\\turnbasedplugin.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\bootcamp1\\turnbase\\intermediate\\build\\win64\\x64\\turnbasedtemplateeditor\\debuggame\\unrealed\\sharedpch.unrealed.project.nonoptimized.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\bootcamp1\\turnbase\\plugins\\turnbasedplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\debuggame\\turnbasedplugin\\definitions.turnbasedplugin.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

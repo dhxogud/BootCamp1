@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\bootcamp1\\turnbase\\plugins\\turnbasedplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\turnbasedplugin\\module.turnbasedplugin.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\bootcamp1\\turnbase\\intermediate\\build\\win64\\x64\\turnbasedtemplateeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\bootcamp1\\turnbase\\plugins\\turnbasedplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\turnbasedplugin\\definitions.turnbasedplugin.h",
+            "c:\\bootcamp1\\turnbase\\plugins\\turnbasedplugin\\source\\turnbasedplugin\\private\\tilebase.cpp",
+            "c:\\bootcamp1\\turnbase\\plugins\\turnbasedplugin\\source\\turnbasedplugin\\public\\tilebase.h",
+            "c:\\bootcamp1\\turnbase\\plugins\\turnbasedplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\turnbasedplugin\\uht\\tilebase.generated.h",
+            "c:\\bootcamp1\\turnbase\\plugins\\turnbasedplugin\\source\\turnbasedplugin\\private\\tilemapmanager.cpp",
+            "c:\\bootcamp1\\turnbase\\plugins\\turnbasedplugin\\source\\turnbasedplugin\\public\\tilemapmanager.h",
+            "c:\\bootcamp1\\turnbase\\plugins\\turnbasedplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\turnbasedplugin\\uht\\tilemapmanager.generated.h",
+            "c:\\bootcamp1\\turnbase\\plugins\\turnbasedplugin\\source\\turnbasedplugin\\private\\turnbasedplugin.cpp",
+            "c:\\bootcamp1\\turnbase\\plugins\\turnbasedplugin\\source\\turnbasedplugin\\public\\turnbasedplugin.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

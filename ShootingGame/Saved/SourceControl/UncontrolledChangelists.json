@@ -1,0 +1,35 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/BootCamp1/ShootingGame/Content/Shooting/Weapon/BP_Weapon.uasset",
+				"D:/BootCamp1/ShootingGame/Content/Shooting/GameMode/BP_ShootingPlayerState.uasset",
+				"D:/BootCamp1/ShootingGame/Content/Shooting/GameMode/BP_ShootingCharacter.uasset",
+				"D:/BootCamp1/ShootingGame/Content/Shooting/Data/ST_Weapon.uasset",
+				"D:/BootCamp1/ShootingGame/Content/Shooting/Data/DT_Weapon.uasset",
+				"D:/BootCamp1/ShootingGame/Content/FPS_Weapon_Bundle/Weapons/Meshes/KA74U/SM_KA74U_X.uasset",
+				"D:/BootCamp1/ShootingGame/Content/Shooting/Weapon/BP_WeaponSpawner.uasset",
+				"D:/BootCamp1/ShootingGame/Content/Shooting/Item/BP_Heal.uasset",
+				"D:/BootCamp1/ShootingGame/Content/Shooting/Item/BP_Mag.uasset",
+				"D:/BootCamp1/ShootingGame/Content/Shooting/Item/BP_Item.uasset",
+				"D:/BootCamp1/ShootingGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/U5/55FZOXAHZK1KY2Q5167T28.uasset",
+				"D:/BootCamp1/ShootingGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/F/0M/R59887XF8YAA1SVKRHNTZK.uasset",
+				"D:/BootCamp1/ShootingGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/JO/VYZDGS5MEZBERJ0CY6SF7X.uasset",
+				"D:/BootCamp1/ShootingGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/08/GL1UE239YUW08A2NNSIHKC.uasset",
+				"D:/BootCamp1/ShootingGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/NP/VNNSW5Q9QCN76WK1CQGUH9.uasset",
+				"D:/BootCamp1/ShootingGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/PX/DBBT82ELI5ULXZNZ0XZYKR.uasset",
+				"D:/BootCamp1/ShootingGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/WY/A9C40QAMVX83DUAX2U7OZD.uasset",
+				"D:/BootCamp1/ShootingGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/8E/KS6KQVW7AY9Z04G455OBDM.uasset",
+				"D:/BootCamp1/ShootingGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/PF/CQQLB8Z35Y1H8P16FKD93S.uasset",
+				"D:/BootCamp1/ShootingGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/H1/UQVN0C6KQIAYO8P56HTHL0.uasset",
+				"D:/BootCamp1/ShootingGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/7L/BFR3I31PGKEBSRZOLGZXXS.uasset",
+				"D:/BootCamp1/ShootingGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/B8/NU67U46MAGG3F8TVN4MWOG.uasset",
+				"D:/BootCamp1/ShootingGame/Content/Shooting/Item/BP_ItemSpawner.uasset",
+				"D:/BootCamp1/ShootingGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/5A/88UF3LFRR9KT4X3ISEQIHO.uasset"
+			]
+		}
+	]
+}
